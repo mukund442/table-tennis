@@ -1,0 +1,44 @@
+body{
+    background-image: url('background1.jpg');
+    background-size: cover;
+}
+.heading{
+    border-bottom-left-radius:5px;
+    border-bottom-left-radius:5px;
+    margin:0px;
+    width:100%;
+}
+.heading h4{
+    float:left;
+    display:inline;
+    font-size:22px;
+}
+.heading button{
+    border:1px solid white;
+    line-height: 2;
+    border-radius:5px;
+    float:right;   
+}
+#playGame{
+    border-radius:5px;
+    font-size:18px;
+    width:350px;
+}
+#status{
+    border-radius:5px;
+    font-size:14px;
+}
+.modal_dialog{
+    width:90%;
+}
+#ins{
+    display:inline-block;
+}
+#rule{
+    text-align:left;
+}
+canvas{
+    border-radius: 10px;
+    border:5 solid black;
+    margin-top:200px;
+}
